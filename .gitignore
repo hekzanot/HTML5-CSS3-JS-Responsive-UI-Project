@@ -1,6 +1,4 @@
 # JPEG
-*.jpg
-*.jpeg
 *.jpe
 *.jif
 *.jfif
@@ -27,9 +25,6 @@
 
 # Web P
 *.webp
-
-# Portable Network Graphics
-*.png
 
 # Animated Portable Network Graphics
 *.apng
